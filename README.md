@@ -1,12 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sebastian Hidalgo
+Sebastian Hidalgo (a.k.a, me)
 =========================================================================================================================================
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+ ## Hi there!
 
-Developer
----------
+Software engineering student, developing various miscellaneous since 2k17.
 
-Software engineering student coding since 2017.
-
-*   🌍  I'm based in Perú 🇵🇪
+*   🌍  Based in Perú 🇵🇪
 *   ✉️  You can contact me at [hidalgodiazsebastian@gmail.com](mailto:hidalgodiazsebastian@gmail.com)
 
 ### Skills
